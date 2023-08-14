@@ -13,7 +13,7 @@ https://realpython.com/learning-paths/
 7. Python Basics: Finding and Fixing Code Bugs
 8. Python Basics: Conditional Logic and Control Flow
 9. Python Basics: Dictionaries
-10. Python Basics: [Object-Oriented Programming]([https://google.com](https://github.com/xiajiun/realpython/blob/master/Python%20Basics/%2310%20Object-Oriented%20Programming.py)
+10. Python Basics: [Object-Oriented Programming](https://github.com/xiajiun/realpython/blob/master/Python%20Basics/%2310%20Object-Oriented%20Programming.py)
 11. Python Basics: Building Systems With Classes
 12. Python Basics: File System Operations
 13. Python Basics: Reading with Writing Files
