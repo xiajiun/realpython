@@ -68,3 +68,6 @@ for animal in field.animals:
 for animal in barn.animals:
     print(f"{animal.name} is a {animal.species} and makes the sound: {animal.make_sound()}")
 
+#Buddy is a Dog and makes the sound: Woof!
+#Whiskers is a Cat and makes the sound: Meow!
+#Tweety is a Bird and makes the sound: Chirp!
